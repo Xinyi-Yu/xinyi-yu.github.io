@@ -17,8 +17,7 @@ I also enjoy studying the general area of theoretical computer science. In parti
 
 <h4>Preprints</h4>
 [1]. **X. Yu**, C. Wang, D. Yuan, S. Li and X. Yin. "Model Predictive Control for Signal Temporal Logic Specifications with Time Interval Decomposition." submitted. [[PDF]](https://arxiv.org/pdf/2211.08031.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPC4STL-TID){:target="_blank"} \\
-[2]. **X. Yu**, W. Dong, X. Yin and S. Li. "Model Predictive Monitoring of Dynamic Systems for Signal Temporal Logic Specifications." submitted. [[PDF]](https://arxiv.org/pdf/2209.12493.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPM4STL){:target="_blank"} \\
-[3]. **X. Yu**, X. Yin and L. Lindemann. "Efficient STL Control Synthesis under Asynchronous Temporal Robustness Constraints." submitted.
+[2]. **X. Yu**, W. Dong, X. Yin and S. Li. "Model Predictive Monitoring of Dynamic Systems for Signal Temporal Logic Specifications." submitted. [[PDF]](https://arxiv.org/pdf/2209.12493.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPM4STL){:target="_blank"} 
 
 <br />
 
