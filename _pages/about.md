@@ -4,7 +4,7 @@ permalink: /
 ---
 
 My general research interests are systems and control theory, with a particular interest in applying rigorous mathematics to engineered cyber-physical systems.
-I also enjoy studying the general area of theoretical computer science. In particular, my research interests include but not limited to formal methods, optimal control, planning, verification, machine learning.
+I also enjoy studying the general area of theoretical computer science. In particular, my research interests include but not limited to formal methods, optimal control, planning, verification and machine learning.
 
 
 
@@ -15,9 +15,9 @@ I also enjoy studying the general area of theoretical computer science. In parti
 <h3><font color= "#6666B3">Publications</font></h3>
 
 
-<h4>Preprints</h4>
-[1]. **X. Yu**, C. Wang, D. Yuan, S. Li and X. Yin. "Model Predictive Control for Signal Temporal Logic Specifications with Time Interval Decomposition." submitted. [[PDF]](https://arxiv.org/pdf/2211.08031.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPC4STL-TID){:target="_blank"} \\
-[2]. **X. Yu**, W. Dong, X. Yin and S. Li. "Model Predictive Monitoring of Dynamic Systems for Signal Temporal Logic Specifications." submitted. [[PDF]](https://arxiv.org/pdf/2209.12493.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPM4STL){:target="_blank"} 
+<h4>Preprint</h4>
+
+[1]. **X. Yu**, W. Dong, X. Yin and S. Li. "Model Predictive Monitoring of Dynamic Systems for Signal Temporal Logic Specifications." submitted. [[PDF]](https://arxiv.org/pdf/2209.12493.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPM4STL){:target="_blank"} 
 
 <br />
 
@@ -28,6 +28,8 @@ I also enjoy studying the general area of theoretical computer science. In parti
 <br />
 
 
-<h4>Conference Paper</h4>
+<h4>Conference Papers</h4>
 
+[C3]. **X. Yu**, X. Yin and L. Lindemann. "Efficient STL Control Synthesis under Asynchronous Temporal Robustness Constraints." *in 62nd IEEE Conference on Decision and Control (CDC)*, accepted, 2023. [[Codes]](https://github.com/Xinyi-Yu/ATR-cases){:target="_blank"}\\
+[C2]. **X. Yu**, C. Wang, D. Yuan, S. Li and X. Yin. "Model Predictive Control for Signal Temporal Logic Specifications with Time Interval Decomposition." *in 62nd IEEE Conference on Decision and Control (CDC)*, accepted, 2023. [[PDF]](https://arxiv.org/pdf/2211.08031.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPC4STL-TID){:target="_blank"}\\
 [C1]. **X. Yu**, W. Dong, X. Yin and S. Li. ["Online Monitoring of Dynamic Systems for Signal Temporal Logic Specifications with Model Information."](https://ieeexplore.ieee.org/abstract/document/9993114){:target="_blank"} *in 61st IEEE Conference on Decision and Control (CDC)*, pp. 4839-4845, 2022. [[PDF]](../papers/2022CDCmonitoring.pdf){:target="_blank"} [[Talk]](https://www.youtube.com/watch?v=WHjb06kQkpw){:target="_blank"}
