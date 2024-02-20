@@ -12,7 +12,7 @@ I also enjoy studying the general area of theoretical computer science. In parti
 
 <a id="Publications"></a>
 
-<p><font size="8" color="#6666B3">Publications</font> (<b>*</b> indicates equal contribution)</p>
+<p><font size="6" color="#6666B3">Publications</font> (<b>*</b> indicates equal contribution)</p>
 
 <h4>Preprints</h4>
 [1]. Dingran Yuan, **Xinyi Yu**, Shaoyuan Li and Xiang Yin. "Safe-by-Construction Autonomous Vehicle Overtaking using Control Barrier Functions and Model Predictive Control." submitted. [[PDF]](https://arxiv.org/pdf/2310.06553.pdf){:target="_blank"}\\
