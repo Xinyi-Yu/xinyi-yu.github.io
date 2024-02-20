@@ -1,0 +1,25 @@
+.page-content {
+    padding: 80px; /* VERTICAL PADDING FOR TITLE ON EVERY PAGE */  //previous: 100
+}
+.page-heading {
+    font-size: 20px;
+}
+.contacticon {
+    display: block;
+    font-size: 60px;
+    margin: 10px;
+}
+.center{
+    text-align: center;
+}
+
+// Schedule.
+tr.past {
+//     color: #999;
+}
+span.event {
+    color: $dark-green;
+}
+span.deadline {
+    color: $red;
+}
