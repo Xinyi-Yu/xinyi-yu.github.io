@@ -89,9 +89,9 @@ $space-2: 1rem !default;
 $space-3: 2rem !default;
 $space-4: 4rem !default;
 
-$horizontal-spacing-unit:       10px;   // change 
+$horizontal-spacing-unit:       30px;
 $vertical-spacing-unit:         30px;
-$nav-height:                    46px;    // change
+$nav-height:                    56px;
 
 // Buttons
 $button-font-size: inherit !default;
@@ -139,6 +139,8 @@ $hljs-addition: $light-green;
 $hljs-change: $dark-blue;
 $hljs-chunk: $light-gray;
 
+// Header
+$nav-height: 56px;
 
 // Footer
 $footer-border-top: thin solid $grey-color-dark;
@@ -233,9 +235,9 @@ $caption-font-size: 12px;
 $caption-color: #aaa;
 
 /* add on-palm to be consistent with other jekyll theme media queries */
-$content-width:    1150px !default;    // change
+$content-width:    900px !default;
 
-$on-palm:          1000px !default;
+$on-palm:          600px !default;
 $on-laptop:        768px !default;
 
 $on-medium:        $on-palm !default;
