@@ -15,7 +15,7 @@ permalink: /Misc
 2. [62nd IEEE Conference on Decision and Control (CDC)](https://cdc2023.ieeecss.org/), Marina Bay Sands, Singapore, Dec 2023. \\
     Model Predictive Control for Signal Temporal Logic Specifications with Time Interval Decomposition. [[Talk video]](https://www.youtube.com/watch?v=q8beAnNY0e8){:target="_blank"}
 
-3. [61st IEEE Conference on Decision and Control (CDC)](https://cdc2022.ieeecss.org/index.html), Cancun, Mexico, Dec 2022. \\
+3. [61st IEEE Conference on Decision and Control (CDC)](https://cdc2022.ieeecss.org/index.html), Cancun, Mexico, Dec 2022 (Remote). \\
      Online Monitoring of Dynamic Systems for Signal Temporal Logic Specifications with Model Information. [[Talk video]](https://www.youtube.com/watch?v=WHjb06kQkpw){:target="_blank"}
 
 
