@@ -33,7 +33,7 @@ body {
     @media screen and (min-width: $on-large) {
         max-width: -webkit-calc(#{$content-width} - (#{$horizontal-spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$horizontal-spacing-unit}));
-        padding-right: $horizontal-spacing-unit;
-        padding-left: $horizontal-spacing-unit;
+        padding-right: $horizontal-spacing-unit / 2;
+        padding-left: $horizontal-spacing-unit / 2;
   }
 }
