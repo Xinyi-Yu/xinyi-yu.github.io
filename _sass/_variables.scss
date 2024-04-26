@@ -89,7 +89,7 @@ $space-2: 1rem !default;
 $space-3: 2rem !default;
 $space-4: 4rem !default;
 
-$horizontal-spacing-unit:       36px;   // change 
+$horizontal-spacing-unit:       10px;   // change 
 $vertical-spacing-unit:         30px;
 $nav-height:                    46px;    // change
 
@@ -235,7 +235,7 @@ $caption-color: #aaa;
 /* add on-palm to be consistent with other jekyll theme media queries */
 $content-width:    1150px !default;    // change
 
-$on-palm:          850px !default;
+$on-palm:          600px !default;
 $on-laptop:        768px !default;
 
 $on-medium:        $on-palm !default;
