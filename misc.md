@@ -30,4 +30,3 @@ permalink: /Misc
  - IEEE Conference on Decision and Control (CDC)
  - American Control Conference (ACC)
  - IEEE Open Journal of Control Systems (OJ-CSYS)
- - IEEE Transcations on Intelligent Vehicles (T-IV)
