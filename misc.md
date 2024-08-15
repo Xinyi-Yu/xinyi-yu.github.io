@@ -27,6 +27,7 @@ permalink: /Misc
 <p><font size="5" color="#6666B3">Reviewers</font> </p>
 
  - IEEE Control System Letter (L-CSS)
+ - IEEE Robotics and Automation Letters (RAL)
  - IEEE Conference on Decision and Control (CDC)
  - American Control Conference (ACC)
  - IEEE Open Journal of Control Systems (OJ-CSYS)
