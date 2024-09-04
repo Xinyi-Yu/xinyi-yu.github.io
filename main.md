@@ -16,7 +16,7 @@ I also enjoy studying the general area of theoretical computer science. In parti
 
 <h4>Preprints</h4>
 [1]. **Xinyi Yu**, Yiqi Zhao, Xiang Yin, and Lars Lindemann. "Signal Temporal Logic Control Synthesis among Uncontrollable Dynamic Agents with Conformal Prediction." submitted. [[PDF]](https://arxiv.org/pdf/2312.04242.pdf){:target="_blank"} [[Codes]](https://github.com/SAIDS-Lab/STL-Synthesis-among-Uncontrollable-Agents){:target="_blank"} \\
-[2]. Yiqi Zhao<b>*</b>, <b>Xinyi Yu*</b>, Jyotirmoy V. Deshmukh, and Lars Lindemann. "Conformal Predictive Programming for Chance Constrained Optimization." submitted. [[PDF]](https://arxiv.org/pdf/2402.07407.pdf){:target="_blank"} [[Codes]](https://github.com/SAIDS-Lab/Conformal-Predictive-Programming-for-CCO){:target="_blank"}
+[2]. Yiqi Zhao<b>*</b>, <b>Xinyi Yu*</b>, Jyotirmoy V. Deshmukh, and Lars Lindemann. "Conformal Predictive Programming for Chance Constrained Optimization." submitted. [[PDF]](https://arxiv.org/pdf/2402.07407.pdf){:target="_blank"} [[Codes]](https://github.com/SAIDS-Lab/Conformal-Predictive-Programming-for-CCO){:target="_blank"} \\
 [3]. Lars Lindemann, Yiqi Zhao, **Xinyi Yu**, George J. Pappas, and Jyotirmoy V. Deshmukh. "Formal Verification and Control with Conformal Prediction." submitted. [[PDF]](https://arxiv.org/pdf/2409.00536){:target="_blank"} {:target="_blank"}
 
 <br />
