@@ -41,11 +41,23 @@
             </svg>
           </span>
         </label>
-      
-      
+    
+        <script>
+          document.addEventListener('click', function(event) {
+              var navTrigger = document.getElementById('nav-trigger'); 
+              var navMenu = document.querySelector('.site-nav'); 
+              var isClickInsideMenu = navMenu.contains(event.target);
+              var isClickOnMenuIcon = event.target.closest('label[for="nav-trigger"]');
+          
+              if (!isClickInsideMenu && !isClickOnMenuIcon) {
+                  navTrigger.checked = false; 
+              }
+          });
+        </script>
+
       <div class="trigger">
         <a class="page-link" href="{{ '/' | relative_url }}">About me</a>
-        <a class="page-link" href="{{ '#Pubulications' | relative_url }}">Publications</a>
+        <a class="page-link" href="{{ '#Publications' | relative_url }}">Publications</a>
         <a class="page-link" href="{{ '/Misc' | relative_url }}">Misc</a>
 
         <!-- <a class="page-link" href="{{ '/Publications/' | relative_url }}" >Publications</a> -->
