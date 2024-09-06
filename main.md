@@ -3,7 +3,7 @@ layout: about
 permalink: /
 ---
 
-- Let's do some interesting or meaningful works! OR is great; AND would be the best!!
+- Let's do some interesting *OR* meaningful works! *XOR* is great; *AND* would be the best!!
 - My general research interests includes systems and control theory, formal methods, robotics, optimization, machine learning, and their applications in cyber-physical systems (CPSs). 
 - If you have any questions or comments about our works, please do not hesitate to drop me an email. I am open to discussions of any kind.
 - Stay safe and healthy - just like we hope our designed CPSs will be! Wishing you happiness every day! 
