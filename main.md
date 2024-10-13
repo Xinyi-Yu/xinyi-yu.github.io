@@ -3,9 +3,8 @@ layout: about
 permalink: /
 ---
 
-- Let's do some interesting *OR* meaningful things, including but far from limited to the research! *XOR* is great; *AND* would be the best! (The definitions of ‘interesting’ and ‘meaningful’ are yours to decide.)
-- My general research interests include systems and control theory, formal methods, robotics, optimization, machine learning, and their applications in cyber-physical systems (CPSs). 
-- If you have any questions or comments about our works, please do not hesitate to drop me an email. I am open to discussions of any kind.
+
+- My general research interests include systems and control theory, formal methods, robotics, optimization, machine learning, and their applications in cyber-physical systems (CPSs). If you have any questions or comments about our works, please do not hesitate to drop me an email. I am open to discussions of any kind.
 - Stay safe and healthy - just like we hope our designed CPSs will be! Wishing you happiness every day! 
 
 
@@ -25,7 +24,8 @@ permalink: /
 
 <h4>Jounal Papers</h4>
 
-[J1]. Chuwei Wang, **Xinyi Yu**, Jianing Zhao, Lars Lindemann, and Xiang Yin. "Sleep When Everything Looks Fine: Self-Triggered Monitoring for Signal Temporal Logic Tasks." IEEE Robotics and Automation Letters, accepted, 2024. [[PDF]](https://arxiv.org/pdf/2311.15531.pdf){:target="_blank"} [[Codes]](https://github.com/ChuweiW/st_om){:target="_blank"}\\
+
+[J1]. Chuwei Wang, **Xinyi Yu**, Jianing Zhao, Lars Lindemann, and Xiang Yin. ["Sleep When Everything Looks Fine: Self-Triggered Monitoring for Signal Temporal Logic Tasks."](https://ieeexplore.ieee.org/abstract/document/10669158?casa_token=mYnee_-fcu0AAAAA:KKm-mEMawnvCvl_N1MdVZNBgC0nNY-LM1pJITFVCFrik1f6cTkyNpKms1nMBjjkClXJd9sZ_5g){:target="_blank"} IEEE Robotics and Automation Letters, 9(10):8983-8990, 2024. [[PDF]](../papers/2024RAL.pdf){:target="_blank"} [[Codes]](https://github.com/ChuweiW/st_om){:target="_blank"}\\
 [J2]. **Xinyi Yu**, Weijie Dong, Shaoyuan Li, and Xiang Yin. ["Model Predictive Monitoring of Dynamic Systems for Signal Temporal Logic Specifications."](https://www.sciencedirect.com/science/article/abs/pii/S000510982300612X){:target="_blank"} <font color= "#6666B3"><b>Automatica</b></font>, 160:111445, 2024. (**Regular Paper**) [[PDF]](../papers/2024AUTO.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/MPM4STL){:target="_blank"} \\
 [J3]. Dingran Yuan, **Xinyi Yu**, Shaoyuan Li, and Xiang Yin. ["Safe-by-Construction Autonomous Vehicle Overtaking using Control Barrier Functions and Model Predictive Control."](https://www.tandfonline.com/doi/full/10.1080/00207721.2024.2304665?casa_token=BNGpihwrVOkAAAAA%3AupIT_LqAbjVQEOuDMtAp61u5i9ikWG2HaPVPGesqJHFFqHmbHn7dl5ZsmagpJLNEUHSSWVe0Edqg) *International Journal of Systems Science*, 55(7): 1283–1303, 2024. [[PDF]](../papers/2024IJSS.pdf){:target="_blank"}\\
 [J4]. **Xinyi Yu**, Xiang Yin, Shaoyuan Li, and Zhaojian Li. ["Security-Preserving Multi-Agent Coordination for Complex Temporal Logic Tasks."](https://www.sciencedirect.com/science/article/pii/S0967066122000442){:target="_blank"} *Control Engineering Practice*, 123:105130, 2022. [[PDF]](../papers/2022CEP.pdf){:target="_blank"} [[Codes]](https://github.com/Xinyi-Yu/Multiagent-LTL-Opacity){:target="_blank"} [[Video]](https://vimeo.com/585810000){:target="_blank"}
